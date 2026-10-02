@@ -1,0 +1,8 @@
+{
+  "genesis": "2026-09-07T12:53:20Z",
+  "hash_version": 13,
+  "resolved_at": "2026-10-02T06:00:04+00:00",
+  "sealed_at": "2026-10-02T06:00:21+00:00",
+  "state_hash": "9cc67a60d2f7ee3f6bb0b6c797f2250428e315c785bad87cfdcef34fe8dbf008",
+  "turn": 52
+}
